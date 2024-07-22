@@ -7,11 +7,9 @@
 </head>
 <body>
 
-    <hr>
-
-    <h3>This is ___ company  !</h3>
+    <h3>This is some intro about us  !</h3>
     <br>
-    <a href="about.php">To About Us</a>
+    <a href="index.php">To Index</a>
     
 </body>
 </html>

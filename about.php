@@ -6,10 +6,12 @@
     <title>Document</title>
 </head>
 <body>
+    <a href="index.php">To Index</a>
+    <hr>
 
     <h3>This is some intro about us  !</h3>
     <br>
-    <a href="index.php">To Index</a>
+
     
 </body>
 </html>

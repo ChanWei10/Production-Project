@@ -6,12 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-
+    <a href="about.php">To About Us</a>
     <hr>
 
     <h3>This is ___ company  !</h3>
     <br>
-    <a href="about.php">To About Us</a>
     
 </body>
 </html>

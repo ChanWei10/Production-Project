@@ -7,6 +7,8 @@
 </head>
 <body>
 
+    <hr>
+
     <h3>This is ___ company  !</h3>
     
 </body>
